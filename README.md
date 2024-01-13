@@ -4,4 +4,4 @@ I'm currently pursuing my undergraduate studies in **statistics**, where I've le
 
  🚀 As of now, I'm engaged in working on **Generative Adversarial Network (GAN)** for image generation.
 
-📖 I'm also studying for **Natural Language Processing (NLP)**. My specific area of interest within **NLP** revolves around retrieval augmented generation **(RAG)**.
+📖 I'm also studying for **Natural Language Processing (NLP)**. 
