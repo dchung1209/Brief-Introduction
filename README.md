@@ -2,6 +2,4 @@
 
 I'm currently pursuing my undergraduate studies in **statistics**, where I've learned data analysis, probability theory, and some statistical modeling. My current focus lies in the realm of **Machine Learning (ML)** and **Artificial Intelligence(AI)**. 
 
- 🚀 As of now, I'm engaged in working on **Generative Adversarial Network (GAN)** for image generation.
-
-📖 I'm also studying for **Natural Language Processing (NLP)**. 
+ 🚀 As of now, I'm engaged in studying more about **Generative Adversarial Network (GAN)** and **Natural Language Processing (NLP)**. 
